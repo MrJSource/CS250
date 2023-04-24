@@ -1,0 +1,65 @@
+•	Demonstrate how the various roles on your Scrum-agile Team specifically contributed to the success of the SNHU Travel project. Be sure to use specific examples from 
+your experiences.
+Over the course of the SNHU travel project each role had a part to play in ensuring the success of the project. The product owner is responsible for defining and 
+prioritizing product backlog items. Basically, they control what needs improvements, features that need to be implemented and any work that needs to be done to achieve 
+the product’s goals. They work closely with the development team and stakeholders to ensure the product vision is achieved. They make decisions on what should be done 
+next based on the priorities of the business and the needs of the customer. They directly affected the SNHU travel project when they announced they had met with the SNHU 
+travel agency, and they want to focus on detox wellness travel destinations. By telling the team that all of their work didn’t need to be scrapped and to focus on detox
+wellness destinations so they deprioritized certain stories in the product backlog so that the same timeframe could be maintained.
+ The scrum master is the person who makes sure the scrum process is followed correctly. They are basically a coach that helps the team identify and overcome obstacles 
+ in the way of the teams’ goals. They work with the product owner to ensure the backlog is kept up to date and the team is delivering value for the business. They 
+ directly affected the SNHU travel project by making sure each member of the development team was following scrum practices and holding proper scrum meetings and 
+ sprints.
+ The development team includes programmers and the testers. This team’s job is to bring a deliverable product to market for the business. They do this by collaborating 
+ to design, build and test a product. They are responsible for ensuring the quality of the product is high. They are a self-organizing cross-function team meaning that 
+ they work together to achieve their goals. The tester directly affected the SNHU travel project when he announced that he could change his test cases for the updated 
+ requirements needed from the customer. The developer affected the SNHU travel project when they announced they would look at what would be attainable and get back to 
+ the product owner. By doing this the product owner could know what the developer felt would be attainable given the current schedule
+•	Describe how a Scrum-agile approach to the SDLC helped each of the user stories come to completion. Be sure to use specific examples from your experiences. 
+The scrum agile approach benefited each of the user stories and allowed them to come to completion. I’m not really sure exactly how they all came to completion and 
+this question confuses me because we did not really work on a project but the two that I was a part of I will answer. The first user story I directly worked on would 
+be the top 5 destinations list, the user story helped me see what it was that I needed to accomplish and what my programming should directly do. First, I needed to 
+have a link that opened a page containing the top 5 destinations and the user story showed me how that page should be formatted. It was supposed to be 1-5 top to 
+bottom containing the name of the location, a brief description, and a picture to add the whole thing together. The other user story I used to program something was 
+basically the same thing but wellness detox locations I followed it the same as above but included wellness detox locations, descriptions and pictures to tie it all 
+together. 
+
+•	Describe how a Scrum-agile approach supported project completion when the project was interrupted and changed direction. Be sure to use specific examples from your 
+experiences.
+By using a scrum agile approach project completion was met even Tho interruption did occur. The project was interrupted about halfway through when the customer 
+requested something different from what was originally arranged. This hurdle was easily vaulted over by having scrum meetings and communicating on the issue at hand. 
+By using this scrum approach the project manager was able to inform the development team the scrum master of the changing needs of the client. The development team 
+was able to communicate and talk about what they could or couldn’t do to meet this new demand while keeping the deadline presented. With this information the product 
+manager was able to inform the customer that the deadline was able to be met and which parts of the backlog would need to be adjusted to meet the deadline with the 
+new requirements.
+•	Demonstrate your ability to communicate effectively with your team by providing samples of your communication. Be sure to explain why your examples were effective 
+in their context and how they encouraged collaboration among team members.
+During The SNHU travel project I had to communicate with my team multiple times either through email or by setting up a team charter to set up the behavior and 
+communication tactics for my team. When writing an email in module 5-3 to relay my needs to the product owner and tester I made a clear concise dictation on what is 
+requested of them for our project. Because I was the developer, I had to see what was needed from the project manager as far as backlog went. I also checked with the 
+tester to see if making new test cases was needed and what would be needed of me as the developer of the project. This was effective in their context and encouraged 
+collaboration among the team by putting out there what I can do what will they need and how can I help achieve these goals.
+
+
+•	Evaluate the organizational tools and Scrum-agile principles that helped your team be successful. Be sure to reference the Scrum events in relation to the 
+effectiveness of the tools.
+Organizational skills that helped my team would have to be the agile approach in general using sprints to set up goals and reevaluating what is needed from my team 
+at the end of each sprint was important. The hierarchical system of scrum manager, product owner and development team let everyone know what their job was and 
+speaking on that the fluid concept of the development team let individuals work on different aspects of the project they felt comfortable doing. Using tools like 
+Jira allows teams to plan and prioritize their backlog, track sprint progress, and hold daily stand-up meetings. Jira also provides real-time visibility into project 
+status, helping Scrum teams to identify and resolve issues quickly. Having a product backlog lets members of the development team view tasks that still need 
+completing while also seeing what has been completed and when. This is also useful for both the scrum master and the product manager for keeping tabs on the progress 
+of the project.
+•	Assess the effectiveness of the Scrum-agile approach for the SNHU Travel project. Be sure to address each of the following:
+o	Describe the pros and cons that the Scrum-agile approach presented during the project.
+There are multiple pros to the scrum agile approach, one of which is the flexibility of it. Scrum Agile allows changes to be made as the project progresses at 
+multiple stages. This allows things to be updated and changed as needed. Another pro is agile encourages continuous improvement and as a project progresses, they can 
+incorporate feedback and adjust as necessary to ensure the final product meets the needs of the stakeholders. Another pro is that agile promotes increased cooperation 
+and teamwork, meaning that team members can work together to ensure the product meets the needs of the stakeholder. Some cons of the Scrum Agile approach include 
+Agile values working software over documentation, which can be problematic if stakeholders require formal documentation of the process or the final vacation list. 
+Agile projects tend to be more difficult to estimate in terms of time and cost, which can be problematic if stakeholders require specific deadlines or budgets for 
+the project. Agile relies on a backlog of requirements that are constantly evolving, which can be challenging if stakeholders are not sure what they want from the 
+vacation list or if they change their minds frequently.
+o	Determine whether or not a Scrum-agile approach was the best approach for the SNHU Travel development project. 
+I believe scrum agile was the best approach for the SNHU travel project. During the project the needs of the customer changed and Agile’s flexibility allowed the project to continue and be completed on schedule even with changing conditions. A waterfall approach would have hindered the project when the customer requested that their end goal of the product was different, and they wished to change the route they were taking. By having a new implementation, they would have had to go back to the drawing board where as with Scrum Agile they were able to just communicate on what the customer wanted and make changes to the backlog to accommodate the needs of the customer. 
+
